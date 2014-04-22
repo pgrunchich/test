@@ -3,5 +3,4 @@ host=ipr-wflo-chi91
 port=29418
 project=test.git
 defaultbranch=master
-defaultremote=review
 defaultrebase=0
